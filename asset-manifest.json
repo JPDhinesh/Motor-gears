@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Motor-gear/static/css/main.bc695cb2.chunk.css",
+    "main.js": "/Motor-gear/static/js/main.9a32f8a1.chunk.js",
+    "main.js.map": "/Motor-gear/static/js/main.9a32f8a1.chunk.js.map",
+    "runtime-main.js": "/Motor-gear/static/js/runtime-main.78685153.js",
+    "runtime-main.js.map": "/Motor-gear/static/js/runtime-main.78685153.js.map",
+    "static/css/2.383c0125.chunk.css": "/Motor-gear/static/css/2.383c0125.chunk.css",
+    "static/js/2.f4335d33.chunk.js": "/Motor-gear/static/js/2.f4335d33.chunk.js",
+    "static/js/2.f4335d33.chunk.js.map": "/Motor-gear/static/js/2.f4335d33.chunk.js.map",
+    "static/js/3.56494ffd.chunk.js": "/Motor-gear/static/js/3.56494ffd.chunk.js",
+    "static/js/3.56494ffd.chunk.js.map": "/Motor-gear/static/js/3.56494ffd.chunk.js.map",
+    "index.html": "/Motor-gear/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Motor-gear/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.bc695cb2.chunk.css.map": "/Motor-gear/static/css/main.bc695cb2.chunk.css.map",
+    "static/js/2.f4335d33.chunk.js.LICENSE.txt": "/Motor-gear/static/js/2.f4335d33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78685153.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.f4335d33.chunk.js",
+    "static/css/main.bc695cb2.chunk.css",
+    "static/js/main.9a32f8a1.chunk.js"
+  ]
+}
