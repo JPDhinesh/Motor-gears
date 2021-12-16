@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/Motor-gear/static/css/main.bc695cb2.chunk.css",
-    "main.js": "/Motor-gear/static/js/main.9a32f8a1.chunk.js",
-    "main.js.map": "/Motor-gear/static/js/main.9a32f8a1.chunk.js.map",
-    "runtime-main.js": "/Motor-gear/static/js/runtime-main.78685153.js",
-    "runtime-main.js.map": "/Motor-gear/static/js/runtime-main.78685153.js.map",
-    "static/css/2.383c0125.chunk.css": "/Motor-gear/static/css/2.383c0125.chunk.css",
-    "static/js/2.f4335d33.chunk.js": "/Motor-gear/static/js/2.f4335d33.chunk.js",
-    "static/js/2.f4335d33.chunk.js.map": "/Motor-gear/static/js/2.f4335d33.chunk.js.map",
-    "static/js/3.56494ffd.chunk.js": "/Motor-gear/static/js/3.56494ffd.chunk.js",
-    "static/js/3.56494ffd.chunk.js.map": "/Motor-gear/static/js/3.56494ffd.chunk.js.map",
-    "index.html": "/Motor-gear/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/Motor-gear/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.bc695cb2.chunk.css.map": "/Motor-gear/static/css/main.bc695cb2.chunk.css.map",
-    "static/js/2.f4335d33.chunk.js.LICENSE.txt": "/Motor-gear/static/js/2.f4335d33.chunk.js.LICENSE.txt"
+    "main.css": "/MotorGears/static/css/main.e5caf7ac.chunk.css",
+    "main.js": "/MotorGears/static/js/main.b63a255b.chunk.js",
+    "main.js.map": "/MotorGears/static/js/main.b63a255b.chunk.js.map",
+    "runtime-main.js": "/MotorGears/static/js/runtime-main.a1e4b0e5.js",
+    "runtime-main.js.map": "/MotorGears/static/js/runtime-main.a1e4b0e5.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/MotorGears/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.15f9e29e.chunk.js": "/MotorGears/static/js/2.15f9e29e.chunk.js",
+    "static/js/2.15f9e29e.chunk.js.map": "/MotorGears/static/js/2.15f9e29e.chunk.js.map",
+    "static/js/3.e7b98f13.chunk.js": "/MotorGears/static/js/3.e7b98f13.chunk.js",
+    "static/js/3.e7b98f13.chunk.js.map": "/MotorGears/static/js/3.e7b98f13.chunk.js.map",
+    "index.html": "/MotorGears/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/MotorGears/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e5caf7ac.chunk.css.map": "/MotorGears/static/css/main.e5caf7ac.chunk.css.map",
+    "static/js/2.15f9e29e.chunk.js.LICENSE.txt": "/MotorGears/static/js/2.15f9e29e.chunk.js.LICENSE.txt",
+    "static/media/1.e9a4a80d.mp4": "/MotorGears/static/media/1.e9a4a80d.mp4",
+    "static/media/logo.6ce24c58.svg": "/MotorGears/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78685153.js",
-    "static/css/2.383c0125.chunk.css",
-    "static/js/2.f4335d33.chunk.js",
-    "static/css/main.bc695cb2.chunk.css",
-    "static/js/main.9a32f8a1.chunk.js"
+    "static/js/runtime-main.a1e4b0e5.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.15f9e29e.chunk.js",
+    "static/css/main.e5caf7ac.chunk.css",
+    "static/js/main.b63a255b.chunk.js"
   ]
 }
